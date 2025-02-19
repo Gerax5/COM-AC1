@@ -1,4 +1,7 @@
 # Explicacion
+
+[link de la explicacion y codigo](https://youtu.be/o_hJd76WEVc)
+
 Como funcionan los buffers en la vida real es que se tienen dos uno que es el principal y el otro de apoyo o el acumulado. 
 El primero se llena con el tamaño del buffer y el segundo por si no se llego a terminar de procesar una palbra.
 
